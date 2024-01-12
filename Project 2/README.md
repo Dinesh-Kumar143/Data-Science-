@@ -2,7 +2,7 @@ Student Data Analysis
 
 # Introduction
 
-This project involves the cleaning and analysis of a student dataset using Python. The dataset includes information about students' demographics, academic performance, and other relevant factors.
+This project involves the cleaning and analysis of a student dataset using Python. The dataset includes information about students' demographics, academic performance, and other relevant factors. This project Cleans the data by removing unnecessary columns and generates the visualize representation of data.
 
 # Table of Contents
 - [Requirements]
