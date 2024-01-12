@@ -1,1 +1,1 @@
-This is Small Basic programs writtem using Python 
+These are Small Basic programs writtem using Python 
