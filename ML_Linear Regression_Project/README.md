@@ -1,4 +1,4 @@
-# Student Data Analysis
+# Prediction of Canada's Per income capita 
 
 # Introduction
 
