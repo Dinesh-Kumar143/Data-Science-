@@ -1,4 +1,4 @@
-# Prediction of Canada's Per income capita 
+# Prediction of Canada's Per capita income
 
 # Introduction
 
